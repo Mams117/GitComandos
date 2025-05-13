@@ -12,5 +12,3 @@
 //* Git Checkout  =("PARA CAMBIAR DE RAMA")
 //* Git Merge  =("PARA MEZCLAR CAMBIOS DE UNA RAMA A OTRA")
 //* Git Remote  =("PARA VER LOS REMOTOS")
-//* Git Remote Add origin =("PARA AGREGAR UN REMOTO")
-//* Git Remote Remove origin =("PARA ELIMINAR UN REMOTO")
