@@ -1,3 +1,5 @@
+//*git config user.name "Name"
+//*git config user.email "Name@gmail.com"
 //* Git Init
 //* Git Add   =("PARA AGREGAR CAMBIOS")
 //* Git Status  =("PARA VER EL ESTADO DEL REPOSITORIO")
