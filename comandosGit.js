@@ -13,4 +13,4 @@
 //*Git log  =("PARA VER EL HISTORIAL DE CAMBIOS")
 //* Git Checkout  =("PARA CAMBIAR DE RAMA")
 //* Git Merge  =("PARA MEZCLAR CAMBIOS DE UNA RAMA A OTRA")
-//* Git Remote  =("PARA VER LOS REMOTOS")
+//* Git Remote add origin ...  =("PARA Conectarse remotamente a un repositorio")
